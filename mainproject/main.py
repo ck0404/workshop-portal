@@ -4,7 +4,7 @@ import MySQLdb
 import os
 from collections import OrderedDict
 
-db = MySQLdb.connect("localhost","root","shrey1234","FosslipyDB")
+db = MySQLdb.connect("localhost","root","ck04","FossDB")
 
 
 app = Flask(__name__)
